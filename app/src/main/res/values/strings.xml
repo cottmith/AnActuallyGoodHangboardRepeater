@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">An Actually GoodHangboard Repeater</string>
+    <string name="title_activity_routine">Routine</string>
+    <string name="start">Start</string>
+    <string name="workout_name">Workout Name</string>
+    <string name="off_time">Off Time</string>
+    <string name="reps">Reps</string>
+    <string name="zero">0</string>
+    <string name="sets">Sets</string>
+    <string name="rest_time">Rest Time</string>
+    <string name="warn_time">Warn Time</string>
+]    <string name="on_time">On Time</string>
+</resources>
